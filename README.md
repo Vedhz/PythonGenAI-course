@@ -1,0 +1,2 @@
+# PythonGenAI-course
+Python Basics
